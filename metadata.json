@@ -1,0 +1,6 @@
+{
+  "name": "Alam Works",
+  "description": "Alam Works provides two-wheeler and four-wheeler tyres, tyre puncture repair, tyre repair, tyre replacement, new tyre sales and bulk tyre supply in Wazirabad, Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
