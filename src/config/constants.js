@@ -58,5 +58,5 @@ export const BUSINESS_INFO = {
   ]
 };
 
-export const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL/exec";
+export const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwslXIF9DMzshNhJ6KVecB7sy6YNYCeLYv-HoGdW3NT8DmpoaV_bkjfwM0MMeuzCuIp/exec";
 export const THEME_STORAGE_KEY = "alam_works_theme";
